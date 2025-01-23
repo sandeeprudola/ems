@@ -9,21 +9,7 @@ const TaskSwipe = () => {
         <div className=' flex-shrink-0 h-full w-[300px] bg-yellow-400 rounded-xl'>
 
         </div>
-        <div className=' flex-shrink-0 h-full w-[300px] bg-yellow-400 rounded-xl'>
 
-        </div>
-        <div className=' flex-shrink-0 h-full w-[300px] bg-yellow-400 rounded-xl'>
-
-        </div>
-        <div className=' flex-shrink-0 h-full w-[300px] bg-yellow-400 rounded-xl'>
-
-        </div>
-        <div className=' flex-shrink-0 h-full w-[300px] bg-yellow-400 rounded-xl'>
-
-        </div>
-        <div className=' flex-shrink-0 h-full w-[300px] bg-yellow-400 rounded-xl'>
-
-        </div>
         
 
         
