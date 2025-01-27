@@ -2,7 +2,7 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <div className=' flex items-end justify-between'>
+    <div className='p-10 flex items-end justify-between'>
         <h1 className='text-4xl font-medium'>
             Hello <span className='text-5xl font-semibold'>Sandeep😇</span> 
         </h1>
